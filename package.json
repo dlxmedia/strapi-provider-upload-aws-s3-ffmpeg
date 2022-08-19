@@ -16,7 +16,7 @@
   "main": "./lib",
   "dependencies": {
     "@aws-sdk/client-s3": "^3.43.0",
-    "fluent-ffmpeg": "^3.2.4"
+    "fluent-ffmpeg": "^2.1.2"
   },
   "strapi": {
     "isProvider": true
