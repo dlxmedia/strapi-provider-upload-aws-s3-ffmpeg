@@ -1,4 +1,4 @@
-# strapi-provider-upload-aws-s3-advanced
+# strapi-provider-upload-aws-s3-ffmpeg
 
 ## Configurations
 
